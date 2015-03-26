@@ -1,6 +1,8 @@
 
 
-# GumballMongo
+# CloudGumballMachine-NodeJS-MongoDB
+====================================
+Developed complete application in Express framework. Front-End & Computation (Security and State of application included) handled in Nodejs. MongoDB at mongolab.com is used as Data Source through REST calls.
 
 
 
